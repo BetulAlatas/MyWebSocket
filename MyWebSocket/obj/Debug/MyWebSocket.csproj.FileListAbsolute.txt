@@ -1,0 +1,94 @@
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\ApplicationInsights.config
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\csc.exe
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\vbc.exe
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\MyWebSocket.dll.config
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\MyWebSocket.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\MyWebSocket.pdb
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.Web.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Helpers.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Mvc.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Razor.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.Razor.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.Web.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Razor.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.Razor.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Helpers.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\System.Web.Mvc.xml
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\obj\Debug\MyWebSocket.dll
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\obj\Debug\MyWebSocket.pdb
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\obj\Debug\MyWebSocket.csprojResolveAssemblyReference.cache
+C:\Users\Polisoft\Desktop\Besim Alatas\MyWebSocket\MyWebSocket\bin\Microsoft.WebSockets.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\ApplicationInsights.config
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\csc.exe
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\vbc.exe
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\MyWebSocket.dll.config
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\MyWebSocket.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\MyWebSocket.pdb
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.Web.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.WebSockets.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Helpers.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Mvc.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Razor.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.Razor.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.Web.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Razor.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Webpages.Razor.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Helpers.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\bin\System.Web.Mvc.xml
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\obj\Debug\MyWebSocket.csprojResolveAssemblyReference.cache
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\obj\Debug\MyWebSocket.dll
+C:\Users\Betul\Desktop\MyWebSocket\MyWebSocket\obj\Debug\MyWebSocket.pdb

@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/angular.js"></script>
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body ng-app="myApp" style="padding: 50px">
+    <div class="row" ng-controller="myController">
+        <div class="col-md-12">
+            <div class="col-md-4">
+                <div class="col-md-6">
+                    <input type="text" ng-disabled="conenctToConversation==true" ng-model="name" class="form-control" placeholder="Adınız" />
+                </div>
+                <div class="col-md-6">
+                    <button type="button" class="btn btn-info" ng-disabled="conenctToConversation==true" ng-click="startConnection()">Connect To Web Socket</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12" style="margin-top: 20px">
+            <div class="col-md-4">
+                <div class="col-md-6">
+                    <input type="text" ng-model="message" class="form-control" placeholder="Mesajınız" />
+                </div>
+                <div class="col-md-6">
+                    <button type="button" class="btn btn-success" ng-click="sendMessage()">Send Message</button>
+                </div>
+            </div>
+        </div>
+        <label style="margin-top: 20px;margin-left: 50px">Mesajlar: </label>
+
+        <br />
+        <div style="margin-top: 5px; margin-left: 50px;" ng-bind-html="allMessages"></div>
+    </div>
+</body>
+</html>
+
+<script type="text/javascript">
+
+    angular.module("myApp", [])
+        .controller("myController",
+            function ($scope, $sce) {
+                $scope.allMessages = "";
+
+                var url;
+                var webSocket;
+
+                $scope.startConnection = function () {
+                    url = 'ws://localhost:55961/WebSocket.ashx/?chatName=' + $scope.name;
+                    $scope.conenctToConversation = true;
+                    webSocket = new WebSocket(url);
+                    webSocket.onerror = function (e) {
+                        console.log("error : " + e.data);
+                    }
+
+                    webSocket.open = function () {
+                        console.log("web socket is opened now ");
+                    }
+
+                    webSocket.onmessage = function (e) {
+                        $scope.allMessages += e.data + "</br>";
+                        $scope.allMessages = $sce.trustAsHtml($scope.allMessages);
+                        $scope.$apply();
+                    };
+
+                    webSocket.onclose = function () {
+                        console.log("socket is closed");
+                    }
+                }
+                $scope.sendMessage = function () {
+
+                    webSocket.send($scope.message);
+                    $scope.message = "";
+                }
+            });
+</script>
